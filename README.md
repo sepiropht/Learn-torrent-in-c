@@ -4,7 +4,7 @@ A step-by-step implementation of a BitTorrent client in C, designed as a project
 
 ## Motivation
 
-I love programming, but I've been stuck in "vibe coding hell" lately. AI tools like Claude are incredibly productive for getting things done, but I realized I wasn't learning anything meaningful - just copy-pasting solutions without understanding the fundamentals.
+I love programming, but I've been stuck in "vibe coding hell" lately. AI tools like Claude are incredibly productive for getting things done, but I realized I wasn't learning anything meaningful - just generated solutions without understanding the fundamentals.
 
 So I decided to flip the script. Instead of using Claude to write code for me, I used it to generate a structured learning project with just enough boilerplate and guidance to get me started. The goal isn't to have Claude solve everything, but to create a framework where I can learn by implementing complex systems from scratch.
 
